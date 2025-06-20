@@ -21,9 +21,10 @@ This project provides a complete framework for analyzing airline route profitabi
 1. Click the badge below to open in Colab:
    
    [![Open In Colab](https://colab.research.google.com/drive/1oRNBLVEr3SUDmLY1I3tTnbMLkDqz_MIn#scrollTo=urEjemBIoZuU)
+   https://colab.research.google.com/drive/1oRNBLVEr3SUDmLY1I3tTnbMLkDqz_MIn#scrollTo=urEjemBIoZuU
 
-2. Run all cells sequentially
-3. Download generated CSV files for your records
+3. Run all cells sequentially
+4. Download generated CSV files for your records
 
 ### Key Metrics Generated
 - **105 Routes Analyzed** across major US airports
