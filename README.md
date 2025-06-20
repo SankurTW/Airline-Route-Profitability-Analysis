@@ -20,7 +20,7 @@ This project provides a complete framework for analyzing airline route profitabi
 ### Option 1: Google Colab 
 1. Click the badge below to open in Colab:
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/airline-route-analysis/blob/main/airline_analysis_colab.ipynb)
+   [![Open In Colab](https://colab.research.google.com/drive/1oRNBLVEr3SUDmLY1I3tTnbMLkDqz_MIn#scrollTo=urEjemBIoZuU)
 
 2. Run all cells sequentially
 3. Download generated CSV files for your records
